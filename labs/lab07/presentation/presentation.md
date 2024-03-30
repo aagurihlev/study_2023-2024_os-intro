@@ -13,7 +13,15 @@ date: 01 января 1970
 ## i18n babel
 babel-lang: russian
 babel-otherlangs: english
-
+## Fonts
+mainfont: PT Serif
+romanfont: PT Serif
+sansfont: PT Sans
+monofont: PT Mono
+mainfontoptions: Ligatures=TeX
+romanfontoptions: Ligatures=TeX
+sansfontoptions: Ligatures=TeX,Scale=MatchLowercase
+monofontoptions: Scale=MatchLowercase,Scale=0.9
 ## Formatting pdf
 toc: false
 toc-title: Содержание
